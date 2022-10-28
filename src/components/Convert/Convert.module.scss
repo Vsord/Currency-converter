@@ -1,0 +1,22 @@
+.converter {
+    margin: 20px;
+
+    select {
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    input {
+        height: 17px;
+        font-size: 18px;
+        padding: 5px;
+    }
+
+    label {
+        display: block;
+        margin: 10px;
+        font-size: 25px;
+    }
+}
